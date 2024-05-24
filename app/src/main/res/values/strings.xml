@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Smart Keyboard</string>
+
+
+    <string name="enable_smart_keyboard_button">Enable Smart Keyboard</string>
+    <string name="enable_smart_keyboard_dialog_title">Enable Smart Keyboard</string>
+    <string name="enable_smart_keyboard_dialog_msg">Would you like to enable the Smart Keyboard?</string>
+
+    <string name="ok_btn">Ok</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="close_btn">Close</string>
+    <string name="settings_btn">Settings</string>
+    <string name="enable_btn">Enable</string>
+
+    <string name="no_internet_dialog_title">No Internet Connection</string>
+    <string name="no_internet_dialog_msg">Please connect to the internet and try again.</string>
+
+    <string name="image_chooser_dialog_title">Select Image Source</string>
+    <string name="image_chooser_dialog_camera">From Camera</string>
+    <string name="image_chooser_dialog_gallery">From Gallery</string>
+
+    <string name="about_dialog_title">About Developer</string>
+    <string name="developer_name">Jahid Hasan</string>
+    <string name="developer_descriptions">Passionate Android developer proficient in Java.Creates robust and user-friendly mobile apps,following best practices.Committed to delivering excellence in each project,ensuring client satisfaction through clean,efficient code.</string>
+
+</resources>
